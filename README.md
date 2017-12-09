@@ -1,5 +1,5 @@
 # EasyCakeEnvironment
-An initial environment for running the Cake CLI with Visual Studio Code configured with intellisense.
+Create an initial environment for using the Cake build system with Visual Studio Code configured with intellisense.
 
 - Install Visual Studio code
   - Chocolatey on Windows, run: 
