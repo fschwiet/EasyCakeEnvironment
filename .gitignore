@@ -1,2 +1,4 @@
 
-cake.downloads
+# Cake 
+tools/**
+!tools/packages.config
